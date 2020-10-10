@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Phasmophobia Save Decoder", "Phasmophobia Save Decoder\Phasmophobia Save Decoder.csproj", "{3C05DAD9-7B69-408A-9DC6-973E8B3F576F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3C05DAD9-7B69-408A-9DC6-973E8B3F576F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C05DAD9-7B69-408A-9DC6-973E8B3F576F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C05DAD9-7B69-408A-9DC6-973E8B3F576F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C05DAD9-7B69-408A-9DC6-973E8B3F576F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
